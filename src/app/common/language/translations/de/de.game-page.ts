@@ -11,7 +11,7 @@ export class TranslationGamePage {
     totalAnswers: "Antworten Gesamt",
     correctAnswers: "Richtige Antworten",
     wrongAnswers: "Falsche Antworten",
-    timePassed: "Time passed",
+    timePassed: "Vergangene Zeit",
     buttons: {
       finish: "Beenden",
     },
