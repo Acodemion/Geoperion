@@ -26,7 +26,7 @@ export class TranslationGamePage {
   getGuessPopulationTitle({ countryCode }: { countryCode: CountryCode }): string {
     const countryName = this.getCountryNameTranslation(countryCode)
 
-    return `Was ist die Bevölkerung von ${countryName} ?`
+    return `Wie viele Einwohner hat ${countryName}?`
   }
 
   protected getCountryNameTranslation(countryCode: CountryCode) {
