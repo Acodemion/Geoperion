@@ -4,6 +4,6 @@ export class TranslationGamesPage {
   games = {
     guessCountry: "Land erraten",
     guessCapital: "Hauptstadt erraten",
-    guessPopulation: "Bevölkerung erraten".
+    guessPopulation: "Einwohnerzahl erraten".
   }
 }
