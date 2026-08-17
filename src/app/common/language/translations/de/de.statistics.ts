@@ -3,5 +3,5 @@ export class TranslationStatistics {
 
   date = "Datum"
 
-  timeTaken = "Zeit"
+  timeTaken = "Benötigte Zeit"
 }
