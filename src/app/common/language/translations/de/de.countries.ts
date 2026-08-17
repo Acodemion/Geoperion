@@ -24,7 +24,7 @@ export class TranslationCountries {
   readonly BD: CountryTranslation = { name: "Bangladesch", capital: "Dhaka" }
   readonly BB: CountryTranslation = { name: "Barbados", capital: "Bridgetown" }
   readonly BY: CountryTranslation = { name: "Belarus", capital: "Minsk" }
-  readonly BE: CountryTranslation = { name: "Belgier", capital: "Brüssel" }
+  readonly BE: CountryTranslation = { name: "Belgien", capital: "Brüssel" }
   readonly BZ: CountryTranslation = { name: "Belize", capital: "Belmopan" }
   readonly BJ: CountryTranslation = { name: "Benin", capital: "Porto-Novo" }
   readonly BM: CountryTranslation = { name: "Bermuda", capital: "Hamilton" }
@@ -96,7 +96,7 @@ export class TranslationCountries {
   readonly HT: CountryTranslation = { name: "Haiti", capital: "Port-au-Prince" }
   readonly VA: CountryTranslation = { name: "Holy See", capital: "Vatican City" }
   readonly HN: CountryTranslation = { name: "Honduras", capital: "Tegucigalpa" }
-  readonly HK: CountryTranslation = { name: "Hongkong", capital: "HongKong" }
+  readonly HK: CountryTranslation = { name: "Hongkong", capital: "Hongkong" }
   readonly HU: CountryTranslation = { name: "Ungarn", capital: "Budapest" }
   readonly IS: CountryTranslation = { name: "Island", capital: "Reykjavik" }
   readonly IN: CountryTranslation = { name: "Indien", capital: "Neu-Delhi" }
